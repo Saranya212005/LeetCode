@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saranya212005/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Saranya212005/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
