@@ -4,12 +4,14 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Saranya212005/LeetCode/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Saranya212005/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Saranya212005/LeetCode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2544-alternating-digit-sum](https://github.com/Saranya212005/LeetCode/tree/master/2544-alternating-digit-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Saranya212005/LeetCode/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Saranya212005/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saranya212005/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Dynamic Programming
@@ -34,4 +36,8 @@
 | [0176-second-highest-salary](https://github.com/Saranya212005/LeetCode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Saranya212005/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Saranya212005/LeetCode/tree/master/0183-customers-who-never-order) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Saranya212005/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
