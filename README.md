@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Saranya212005/LeetCode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Saranya212005/LeetCode/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Saranya212005/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Saranya212005/LeetCode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Saranya212005/LeetCode/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Saranya212005/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Saranya212005/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
