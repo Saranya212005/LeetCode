@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saranya212005/LeetCode/tree/master/0001-two-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saranya212005/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Database
 |  |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Saranya212005/LeetCode/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Saranya212005/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
