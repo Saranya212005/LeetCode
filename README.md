@@ -44,6 +44,7 @@
 | [0511-game-play-analysis-i](https://github.com/Saranya212005/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Saranya212005/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/Saranya212005/LeetCode/tree/master/0607-sales-person) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Saranya212005/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## String
 |  |
 | ------- |
