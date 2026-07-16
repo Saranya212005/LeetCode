@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Saranya212005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Saranya212005/LeetCode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Saranya212005/LeetCode/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Saranya212005/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -48,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Saranya212005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Saranya212005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Saranya212005/LeetCode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
@@ -66,4 +68,5 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saranya212005/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Saranya212005/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
