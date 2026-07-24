@@ -19,6 +19,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Saranya212005/LeetCode/tree/master/0053-maximum-subarray) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Saranya212005/LeetCode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Greedy
 |  |
@@ -33,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Saranya212005/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saranya212005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Saranya212005/LeetCode/tree/master/0053-maximum-subarray) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saranya212005/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Database
 |  |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saranya212005/LeetCode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Saranya212005/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
