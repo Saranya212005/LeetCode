@@ -8,6 +8,7 @@
 | [0231-power-of-two](https://github.com/Saranya212005/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saranya212005/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Saranya212005/LeetCode/tree/master/0412-fizz-buzz) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Saranya212005/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Saranya212005/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Saranya212005/LeetCode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2544-alternating-digit-sum](https://github.com/Saranya212005/LeetCode/tree/master/2544-alternating-digit-sum) |
@@ -39,6 +40,7 @@
 | [0053-maximum-subarray](https://github.com/Saranya212005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Saranya212005/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Saranya212005/LeetCode/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Saranya212005/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saranya212005/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saranya212005/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Saranya212005/LeetCode/tree/master/3731-find-missing-elements) |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saranya212005/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Saranya212005/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
