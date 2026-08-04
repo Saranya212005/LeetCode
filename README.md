@@ -40,6 +40,7 @@
 | [0053-maximum-subarray](https://github.com/Saranya212005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Saranya212005/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Saranya212005/LeetCode/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Saranya212005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Saranya212005/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saranya212005/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saranya212005/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Saranya212005/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Saranya212005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
