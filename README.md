@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saranya212005/LeetCode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Saranya212005/LeetCode/tree/master/0118-pascals-triangle) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Saranya212005/LeetCode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Greedy
 |  |
@@ -39,6 +40,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saranya212005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saranya212005/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Saranya212005/LeetCode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Saranya212005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Saranya212005/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Saranya212005/LeetCode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Saranya212005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
