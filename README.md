@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Saranya212005/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Saranya212005/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Saranya212005/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Saranya212005/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Saranya212005/LeetCode/tree/master/0412-fizz-buzz) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saranya212005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Saranya212005/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Saranya212005/LeetCode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Saranya212005/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Saranya212005/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Saranya212005/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Saranya212005/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saranya212005/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saranya212005/LeetCode/tree/master/0268-missing-number) |
@@ -124,4 +127,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Saranya212005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Saranya212005/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
