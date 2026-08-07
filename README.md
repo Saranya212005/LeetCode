@@ -65,6 +65,7 @@
 | [0020-valid-parentheses](https://github.com/Saranya212005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Saranya212005/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Saranya212005/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Saranya212005/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Saranya212005/LeetCode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@
 | [0001-two-sum](https://github.com/Saranya212005/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Saranya212005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Saranya212005/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Saranya212005/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saranya212005/LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saranya212005/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Saranya212005/LeetCode/tree/master/3731-find-missing-elements) |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Saranya212005/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Saranya212005/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saranya212005/LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saranya212005/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Saranya212005/LeetCode/tree/master/3731-find-missing-elements) |
